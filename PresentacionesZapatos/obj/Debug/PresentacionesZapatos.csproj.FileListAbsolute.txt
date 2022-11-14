@@ -1,0 +1,9 @@
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\bin\Debug\PresentacionesZapatos.exe
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\bin\Debug\PresentacionesZapatos.pdb
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.csproj.AssemblyReference.cache
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.csproj.SuggestedBindingRedirects.cache
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmPedidos.resources
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.csproj.GenerateResource.cache
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.csproj.CoreCompileInputs.cache
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.exe
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.pdb
