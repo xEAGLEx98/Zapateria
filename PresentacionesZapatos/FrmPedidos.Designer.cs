@@ -46,13 +46,13 @@
             // 
             // btnAgregar
             // 
-            this.btnAgregar.BackColor = System.Drawing.Color.PaleGreen;
+            this.btnAgregar.BackColor = System.Drawing.Color.Ivory;
             this.btnAgregar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnAgregar.Image = global::PresentacionesZapatos.Properties.Resources.anadir;
             this.btnAgregar.Location = new System.Drawing.Point(662, 7);
             this.btnAgregar.Name = "btnAgregar";
             this.btnAgregar.Size = new System.Drawing.Size(40, 37);
             this.btnAgregar.TabIndex = 1;
-            this.btnAgregar.Text = "+";
             this.btnAgregar.UseVisualStyleBackColor = false;
             // 
             // label1
@@ -76,13 +76,16 @@
             // 
             // btnRegresar
             // 
-            this.btnRegresar.BackColor = System.Drawing.Color.Thistle;
+            this.btnRegresar.BackColor = System.Drawing.Color.LavenderBlush;
             this.btnRegresar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRegresar.Image = global::PresentacionesZapatos.Properties.Resources.salida__2_;
+            this.btnRegresar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnRegresar.Location = new System.Drawing.Point(12, 304);
             this.btnRegresar.Name = "btnRegresar";
-            this.btnRegresar.Size = new System.Drawing.Size(111, 37);
+            this.btnRegresar.Size = new System.Drawing.Size(121, 37);
             this.btnRegresar.TabIndex = 4;
             this.btnRegresar.Text = "Regresar";
+            this.btnRegresar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.btnRegresar.UseVisualStyleBackColor = false;
             // 
             // FrmPedidos
