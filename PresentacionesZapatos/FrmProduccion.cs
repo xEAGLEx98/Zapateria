@@ -16,5 +16,10 @@ namespace PresentacionesZapatos
         {
             InitializeComponent();
         }
+
+        private void btnRegresar_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

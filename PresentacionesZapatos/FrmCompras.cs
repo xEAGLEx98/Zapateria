@@ -16,5 +16,16 @@ namespace PresentacionesZapatos
         {
             InitializeComponent();
         }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            FrmComprasAdd owo = new FrmComprasAdd();
+            owo.ShowDialog();
+        }
+
+        private void btnRegresar_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }

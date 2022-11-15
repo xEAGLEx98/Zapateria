@@ -7,3 +7,12 @@ C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Pr
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.csproj.CoreCompileInputs.cache
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.exe
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.pdb
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmAlmacen.resources
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmCompras.resources
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmComprasAdd.resources
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmInventario.resources
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmMenu.resources
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmPedidosAdd.resources
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmProduccion.resources
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmVentas.resources
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.Properties.Resources.resources

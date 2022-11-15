@@ -12,7 +12,7 @@ namespace PresentacionesZapatos
         [STAThread]
         static void Main()
         {
-            Application.Run(new FrmPedidos());
+            Application.Run(new FrmMenu());
         }
     }
 }
