@@ -15,9 +15,9 @@ namespace AccesoDatosZapato
         {
             b.comando(String.Format("call insertar_producciones({0},{1})", Entidad.__IdPedido, Entidad._Cantidad));
         }
-        public void Limpiar(dynamic Entidad)
+        public void Limpiar()
         {
-            b.comando(string.Format("call limpiar_produccion({0})",Entidad.__IdPedido));
+            b.comando(string.Format("call limpiar_produccion()"));
         }
         public DataSet mostrar(string filtro)
         {

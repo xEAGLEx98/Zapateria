@@ -199,6 +199,10 @@
     <None Include="Resources\ventas.png" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\EntidadesZapato\EntidadesZapato.csproj">
+      <Project>{57AF6C7E-35FC-40B9-817D-CB74047712C5}</Project>
+      <Name>EntidadesZapato</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ManejadorZapatos\ManejadorZapatos.csproj">
       <Project>{C0CF2ED3-4B65-4012-9B33-5A1F8181999F}</Project>
       <Name>ManejadorZapatos</Name>

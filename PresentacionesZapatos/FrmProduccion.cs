@@ -1,4 +1,5 @@
-﻿using ManejadorZapatos;
+﻿using EntidadesZapato;
+using ManejadorZapatos;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -29,6 +30,22 @@ namespace PresentacionesZapatos
             mp.Mostrar(txtBuscar.Text,dtgMostrar);
         }
         private void txtBuscar_TextChanged(object sender, EventArgs e)
+        {
+            Actualizar();
+        }
+
+        private void btnAgregar_Click(object sender, EventArgs e)
+        {
+            FrmProduccionAdd owo = new FrmProduccionAdd();
+            owo.ShowDialog();
+        }
+
+        private void btnLimpiar_Click(object sender, EventArgs e)
+        {
+            mp.Limpiar();
+        }
+
+        private void FrmProduccion_Load(object sender, EventArgs e)
         {
             Actualizar();
         }

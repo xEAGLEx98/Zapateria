@@ -15,17 +15,19 @@ namespace ManejadorZapatos
         {
             ap.Agregar(Entidad);
         }
-        public void Limpiar(dynamic Entidad)
+        public void Limpiar()
         {
             DialogResult rs = MessageBox.Show("¿Estás seguro que deseas limpiar los completados?", "ATENCIÓN",
                 MessageBoxButtons.YesNo, MessageBoxIcon.Question);
             if (rs == DialogResult.Yes)
-                ap.Limpiar(Entidad);
+                ap.Limpiar();
         }
         public void Mostrar(string filtro, DataGridView tabla)
         {
             tabla.Columns.Clear();
+            tabla.RowTemplate.Height = 30;
             tabla.DataSource = ap.mostrar(filtro).Tables["produccion"];
+            tabla.Columns[0].Visible = false;
         }
         public void ExtraePedido(ComboBox caja)
         {
