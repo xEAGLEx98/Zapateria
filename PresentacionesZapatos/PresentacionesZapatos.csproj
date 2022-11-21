@@ -34,6 +34,9 @@
     <StartupObject />
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Crud">
+      <HintPath>..\..\..\..\..\Programación\Semestre 4\Códigos\Crud\Crud\bin\Debug\Crud.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />

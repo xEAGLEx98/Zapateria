@@ -40,3 +40,5 @@ C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Pr
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.csproj.CopyComplete
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\bin\Debug\EntidadesZapato.dll
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\bin\Debug\EntidadesZapato.pdb
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\bin\Debug\Crud.dll
+C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\bin\Debug\Crud.pdb

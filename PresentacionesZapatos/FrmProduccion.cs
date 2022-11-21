@@ -38,6 +38,7 @@ namespace PresentacionesZapatos
         {
             FrmProduccionAdd owo = new FrmProduccionAdd();
             owo.ShowDialog();
+            Actualizar();
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
