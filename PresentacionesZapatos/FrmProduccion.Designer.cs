@@ -32,6 +32,8 @@
             this.dtgMostrar = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
             this.txtBuscar = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dtgMostrar)).BeginInit();
             this.SuspendLayout();
             // 
@@ -76,12 +78,43 @@
             this.txtBuscar.Name = "txtBuscar";
             this.txtBuscar.Size = new System.Drawing.Size(621, 26);
             this.txtBuscar.TabIndex = 5;
+            this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Honeydew;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Image = global::PresentacionesZapatos.Properties.Resources.anadir;
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(140, 308);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(200, 37);
+            this.button1.TabIndex = 10;
+            this.button1.Text = "Registrar producción";
+            this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button1.UseVisualStyleBackColor = false;
+            // 
+            // button2
+            // 
+            this.button2.BackColor = System.Drawing.Color.LavenderBlush;
+            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button2.Image = global::PresentacionesZapatos.Properties.Resources.borrar;
+            this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button2.Location = new System.Drawing.Point(510, 308);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(193, 37);
+            this.button2.TabIndex = 11;
+            this.button2.Text = "Limpiar completados";
+            this.button2.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.button2.UseVisualStyleBackColor = false;
             // 
             // FrmProduccion
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(716, 357);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnRegresar);
             this.Controls.Add(this.dtgMostrar);
             this.Controls.Add(this.label1);
@@ -104,5 +137,7 @@
         private System.Windows.Forms.DataGridView dtgMostrar;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtBuscar;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button2;
     }
 }

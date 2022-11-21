@@ -22,10 +22,13 @@ namespace ManejadorZapatos
             if (rs == DialogResult.Yes)
                 ap.Limpiar(Entidad);
         }
-        public void Mostrar(string filtro, DataGridView tabla, ComboBox caja)
+        public void Mostrar(string filtro, DataGridView tabla)
         {
-            tabla.Rows.Clear();
+            tabla.Columns.Clear();
             tabla.DataSource = ap.mostrar(filtro).Tables["produccion"];
+        }
+        public void ExtraePedido(ComboBox caja)
+        {
             caja.DataSource = ap.mostrarPedido().Tables["pedidos"];
             caja.DisplayMember = "pedido";
             caja.ValueMember = "id";

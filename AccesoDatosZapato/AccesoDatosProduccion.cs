@@ -23,7 +23,7 @@ namespace AccesoDatosZapato
         {
             return b.Obtener(string.Format("SELECT p.id,p._idpedido AS 'No. Pedido',pe.pedido AS " +
                 "'Pedido',p.estado AS 'Estado',p.cantidad AS 'Cantidad' FROM produccion p, pedidos" +
-                " pe WHERE p._idpedido = pe.id AND pe.pedido LIKE {0}",filtro),"produccion");
+                " pe WHERE p._idpedido = pe.id AND pe.pedido LIKE '%{0}%'",filtro),"produccion");
         }
         public DataSet mostrarPedido()
         {
