@@ -25,5 +25,9 @@ namespace AccesoDatosZapato
                 "'Pedido',p.estado AS 'Estado',p.cantidad AS 'Cantidad' FROM produccion p, pedidos" +
                 " pe WHERE p._idpedido = pe.id AND pe.pedido LIKE {0}",filtro),"produccion");
         }
+        public DataSet mostrarPedido()
+        {
+            return b.Obtener("select pedido, id from pedidos","pedidos");
+        }
     }
 }
