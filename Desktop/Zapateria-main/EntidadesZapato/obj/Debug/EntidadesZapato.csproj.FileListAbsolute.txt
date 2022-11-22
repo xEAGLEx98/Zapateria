@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\Zapateria-main\EntidadesZapato\bin\Debug\EntidadesZapato.dll
+C:\Users\pc\Desktop\Zapateria-main\EntidadesZapato\bin\Debug\EntidadesZapato.pdb
+C:\Users\pc\Desktop\Zapateria-main\EntidadesZapato\obj\Debug\EntidadesZapato.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Zapateria-main\EntidadesZapato\obj\Debug\EntidadesZapato.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Zapateria-main\EntidadesZapato\obj\Debug\EntidadesZapato.dll
+C:\Users\pc\Desktop\Zapateria-main\EntidadesZapato\obj\Debug\EntidadesZapato.pdb
