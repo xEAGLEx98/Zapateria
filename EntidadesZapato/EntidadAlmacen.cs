@@ -6,20 +6,19 @@ using System.Threading.Tasks;
 
 namespace EntidadesZapato
 {
-    public class EntidadInventario
+    public class EntidadAlmacen
     {
-        public EntidadInventario(int id, string insumo, int cantidad, int idpedido)
+        public EntidadAlmacen(int id, string producto, int cantidad, int idpedido)
         {
             _id = id;
-            _insumo = insumo;
+            _producto = producto;
             _cantidad = cantidad;
             _idpedido = idpedido;
         }
 
         public int _id { get; set; }
-        public string _insumo { get; set; }
+        public string _producto { get; set; }
         public int _cantidad { get; set; }
         public int _idpedido { get; set; }
     }
 }
-

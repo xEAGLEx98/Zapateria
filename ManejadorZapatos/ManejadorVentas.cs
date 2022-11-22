@@ -1,22 +1,22 @@
-﻿using AccesoDatosZapato;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using AccesoDatosZapato;
 
 namespace ManejadorZapatos
 {
-    public class ManejadorInventario
+    public class ManejadorVentas
     {
-        AccesoInventario ai = new AccesoInventario();
+        AccesoVentas av = new AccesoVentas();
         public void Mostrar(DataGridView tabla, string filtro)
         {
             tabla.Columns.Clear();
             tabla.RowTemplate.Height = 30;
-            tabla.DataSource = ai.Mostrar(filtro).Tables["Inventario"];
-            
+            tabla.DataSource = av.Mostrar(filtro).Tables["Ventas"];
+
         }
     }
 }

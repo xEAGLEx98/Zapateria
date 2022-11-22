@@ -44,6 +44,7 @@
             this.dtgMostrar.Name = "dtgMostrar";
             this.dtgMostrar.Size = new System.Drawing.Size(690, 250);
             this.dtgMostrar.TabIndex = 8;
+            this.dtgMostrar.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgMostrar_CellEnter);
             // 
             // label1
             // 
@@ -61,6 +62,7 @@
             this.txtBuscar.Name = "txtBuscar";
             this.txtBuscar.Size = new System.Drawing.Size(621, 26);
             this.txtBuscar.TabIndex = 5;
+            this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
             // 
             // btnRegresar
             // 
@@ -93,6 +95,7 @@
             this.Name = "FrmAlmacen";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmAlmacen";
+            this.Load += new System.EventHandler(this.FrmAlmacen_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgMostrar)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
