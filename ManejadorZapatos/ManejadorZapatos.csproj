@@ -43,7 +43,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ManejadorAlmacen.cs" />
+    <Compile Include="ManejadorInventario.cs" />
     <Compile Include="ManejadorProduccion.cs" />
+    <Compile Include="ManejadorVentas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
