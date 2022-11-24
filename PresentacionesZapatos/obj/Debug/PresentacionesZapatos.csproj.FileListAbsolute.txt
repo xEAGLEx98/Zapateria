@@ -42,3 +42,46 @@ C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Pr
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\bin\Debug\EntidadesZapato.pdb
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\bin\Debug\Crud.dll
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\PresentacionesZapatos\bin\Debug\Crud.pdb
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\PresentacionesZapatos.exe.config
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\PresentacionesZapatos.exe
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\PresentacionesZapatos.pdb
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\EntidadesZapato.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\ManejadorZapatos.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\AccesoDatosZapato.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\ConectarRedReal.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\ConectarBd.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\MySql.Data.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\Google.Protobuf.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\ZstdNet.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\BouncyCastle.Crypto.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\Ubiety.Dns.Core.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\System.Memory.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\System.Buffers.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\K4os.Compression.LZ4.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\K4os.Hash.xxHash.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\System.Numerics.Vectors.dll
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\EntidadesZapato.pdb
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\ManejadorZapatos.pdb
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\Crud.pdb
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\AccesoDatosZapato.pdb
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\ConectarRedReal.pdb
+E:\Descargas\Zapateria-main\PresentacionesZapatos\bin\Debug\MySql.Data.xml
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.csproj.AssemblyReference.cache
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.exe.config
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmAlmacen.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmCompras.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmComprasAdd.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmInventario.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmMenu.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmPedidos.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmPedidosAdd.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmProduccion.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmProduccionAdd.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.FrmVentas.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.Properties.Resources.resources
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.csproj.GenerateResource.cache
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.csproj.CoreCompileInputs.cache
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.csproj.CopyComplete
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.exe
+E:\Descargas\Zapateria-main\PresentacionesZapatos\obj\Debug\PresentacionesZapatos.pdb

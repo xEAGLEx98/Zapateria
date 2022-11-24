@@ -31,8 +31,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Crud, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\PresentacionesZapatos\bin\Debug\Crud.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -42,7 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ManejadorPedidos.cs" />
     <Compile Include="ManejadorProduccion.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -50,6 +55,10 @@
     <ProjectReference Include="..\AccesoDatosZapato\AccesoDatosZapato.csproj">
       <Project>{89572C56-1615-4780-B181-AC1256905690}</Project>
       <Name>AccesoDatosZapato</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\EntidadesZapato\EntidadesZapato.csproj">
+      <Project>{57af6c7e-35fc-40b9-817d-cb74047712c5}</Project>
+      <Name>EntidadesZapato</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

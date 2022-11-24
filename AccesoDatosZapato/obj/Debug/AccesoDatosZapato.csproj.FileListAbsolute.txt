@@ -19,3 +19,24 @@ C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Pr
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\AccesoDatosZapato\obj\Debug\AccesoDatosZapato.csproj.CopyComplete
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\AccesoDatosZapato\obj\Debug\AccesoDatosZapato.dll
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\AccesoDatosZapato\obj\Debug\AccesoDatosZapato.pdb
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\AccesoDatosZapato.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\AccesoDatosZapato.pdb
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\ConectarBd.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\MySql.Data.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\Google.Protobuf.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\ZstdNet.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\BouncyCastle.Crypto.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\Ubiety.Dns.Core.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\System.Memory.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\System.Buffers.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\K4os.Compression.LZ4.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\K4os.Hash.xxHash.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\System.Numerics.Vectors.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\ConectarRedReal.pdb
+E:\Descargas\Zapateria-main\AccesoDatosZapato\bin\Debug\MySql.Data.xml
+E:\Descargas\Zapateria-main\AccesoDatosZapato\obj\Debug\AccesoDatosZapato.csproj.AssemblyReference.cache
+E:\Descargas\Zapateria-main\AccesoDatosZapato\obj\Debug\AccesoDatosZapato.csproj.CoreCompileInputs.cache
+E:\Descargas\Zapateria-main\AccesoDatosZapato\obj\Debug\AccesoDatosZapato.csproj.CopyComplete
+E:\Descargas\Zapateria-main\AccesoDatosZapato\obj\Debug\AccesoDatosZapato.dll
+E:\Descargas\Zapateria-main\AccesoDatosZapato\obj\Debug\AccesoDatosZapato.pdb

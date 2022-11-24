@@ -4,3 +4,9 @@ C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Pr
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\EntidadesZapato\obj\Debug\EntidadesZapato.csproj.CoreCompileInputs.cache
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\EntidadesZapato\obj\Debug\EntidadesZapato.dll
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\EntidadesZapato\obj\Debug\EntidadesZapato.pdb
+E:\Descargas\Zapateria-main\EntidadesZapato\bin\Debug\EntidadesZapato.dll
+E:\Descargas\Zapateria-main\EntidadesZapato\bin\Debug\EntidadesZapato.pdb
+E:\Descargas\Zapateria-main\EntidadesZapato\obj\Debug\EntidadesZapato.csproj.AssemblyReference.cache
+E:\Descargas\Zapateria-main\EntidadesZapato\obj\Debug\EntidadesZapato.csproj.CoreCompileInputs.cache
+E:\Descargas\Zapateria-main\EntidadesZapato\obj\Debug\EntidadesZapato.dll
+E:\Descargas\Zapateria-main\EntidadesZapato\obj\Debug\EntidadesZapato.pdb

@@ -21,3 +21,31 @@ C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Pr
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\ManejadorZapatos\obj\Debug\ManejadorZapatos.csproj.CopyComplete
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\ManejadorZapatos\obj\Debug\ManejadorZapatos.dll
 C:\OneDrive\Documentos\Escuela\Base de datos\Administración de base de datos\Proyectos\CalzadoFerreti\ManejadorZapatos\obj\Debug\ManejadorZapatos.pdb
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\ManejadorZapatos.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\ManejadorZapatos.pdb
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\AccesoDatosZapato.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\Crud.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\EntidadesZapato.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\ConectarRedReal.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\ConectarBd.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\MySql.Data.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\Google.Protobuf.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\ZstdNet.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\BouncyCastle.Crypto.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\Ubiety.Dns.Core.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\System.Memory.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\System.Buffers.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\K4os.Compression.LZ4.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\K4os.Hash.xxHash.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\System.Numerics.Vectors.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\AccesoDatosZapato.pdb
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\EntidadesZapato.pdb
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\Crud.pdb
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\ConectarRedReal.pdb
+E:\Descargas\Zapateria-main\ManejadorZapatos\bin\Debug\MySql.Data.xml
+E:\Descargas\Zapateria-main\ManejadorZapatos\obj\Debug\ManejadorZapatos.csproj.AssemblyReference.cache
+E:\Descargas\Zapateria-main\ManejadorZapatos\obj\Debug\ManejadorZapatos.csproj.CoreCompileInputs.cache
+E:\Descargas\Zapateria-main\ManejadorZapatos\obj\Debug\ManejadorZapatos.csproj.CopyComplete
+E:\Descargas\Zapateria-main\ManejadorZapatos\obj\Debug\ManejadorZapatos.dll
+E:\Descargas\Zapateria-main\ManejadorZapatos\obj\Debug\ManejadorZapatos.pdb

@@ -31,6 +31,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ConectarBd">
+      <HintPath>C:\ConectarBd.dll</HintPath>
+    </Reference>
     <Reference Include="ConectarRedReal">
       <HintPath>..\..\..\..\..\Programación\Semestre 4\Códigos\ConectarRedReal\ConectarRedReal\bin\Debug\ConectarRedReal.dll</HintPath>
     </Reference>
@@ -45,7 +48,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AccesoDatosProduccion.cs" />
-    <Compile Include="Class1.cs" />
+    <Compile Include="AccesoPedidos.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

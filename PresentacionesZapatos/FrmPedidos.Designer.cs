@@ -43,6 +43,7 @@
             this.txtBuscar.Name = "txtBuscar";
             this.txtBuscar.Size = new System.Drawing.Size(575, 26);
             this.txtBuscar.TabIndex = 0;
+            this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
             // 
             // btnAgregar
             // 
@@ -67,13 +68,18 @@
             // 
             // dtgMostrar
             // 
+            this.dtgMostrar.AllowUserToAddRows = false;
+            this.dtgMostrar.AllowUserToDeleteRows = false;
             this.dtgMostrar.BackgroundColor = System.Drawing.Color.OldLace;
             this.dtgMostrar.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dtgMostrar.GridColor = System.Drawing.Color.Ivory;
             this.dtgMostrar.Location = new System.Drawing.Point(12, 48);
             this.dtgMostrar.Name = "dtgMostrar";
+            this.dtgMostrar.ReadOnly = true;
             this.dtgMostrar.Size = new System.Drawing.Size(690, 250);
             this.dtgMostrar.TabIndex = 3;
+            this.dtgMostrar.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgMostrar_CellClick);
+            this.dtgMostrar.CellEnter += new System.Windows.Forms.DataGridViewCellEventHandler(this.dtgMostrar_CellEnter);
             // 
             // btnRegresar
             // 
