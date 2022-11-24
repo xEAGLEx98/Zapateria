@@ -31,7 +31,6 @@
             this.btnRegresar = new System.Windows.Forms.Button();
             this.dtgMostrar = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
-            this.btnAgregar = new System.Windows.Forms.Button();
             this.txtBuscar = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dtgMostrar)).BeginInit();
             this.SuspendLayout();
@@ -70,25 +69,14 @@
             this.label1.TabIndex = 7;
             this.label1.Text = "Buscar:";
             // 
-            // btnAgregar
-            // 
-            this.btnAgregar.BackColor = System.Drawing.Color.Ivory;
-            this.btnAgregar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAgregar.Image = global::PresentacionesZapatos.Properties.Resources.anadir;
-            this.btnAgregar.Location = new System.Drawing.Point(662, 9);
-            this.btnAgregar.Name = "btnAgregar";
-            this.btnAgregar.Size = new System.Drawing.Size(40, 37);
-            this.btnAgregar.TabIndex = 6;
-            this.btnAgregar.UseVisualStyleBackColor = false;
-            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
-            // 
             // txtBuscar
             // 
             this.txtBuscar.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.txtBuscar.Location = new System.Drawing.Point(81, 15);
             this.txtBuscar.Name = "txtBuscar";
-            this.txtBuscar.Size = new System.Drawing.Size(575, 26);
+            this.txtBuscar.Size = new System.Drawing.Size(621, 26);
             this.txtBuscar.TabIndex = 5;
+            this.txtBuscar.TextChanged += new System.EventHandler(this.txtBuscar_TextChanged);
             // 
             // FrmCompras
             // 
@@ -99,7 +87,6 @@
             this.Controls.Add(this.btnRegresar);
             this.Controls.Add(this.dtgMostrar);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.txtBuscar);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -107,6 +94,7 @@
             this.Name = "FrmCompras";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "FrmCompras";
+            this.Load += new System.EventHandler(this.FrmCompras_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dtgMostrar)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -118,7 +106,6 @@
         private System.Windows.Forms.Button btnRegresar;
         private System.Windows.Forms.DataGridView dtgMostrar;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.TextBox txtBuscar;
     }
 }
